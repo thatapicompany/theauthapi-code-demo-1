@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "theauthapi": "^1.0.9"
+  }
+}
